@@ -2,7 +2,7 @@
 
 ### Zdravím tým Reas!
 
-Celá práce mi trvala 14 hodin a 59 minut a strašně moc jsem si jí užil. Bylo potřeba se naučit nové technologie a občas to byla docela výzva, například vytvoření mapy pro formulář. 
+Celá práce mi trvala pár hodin a strašně moc jsem si jí užil. Bylo potřeba se naučit nové technologie a občas to byla docela výzva, například vytvoření mapy pro formulář. 
 Chtěl bych moc poděkovat za tuto příležitost a za možnost pracovat u Vás.
 
 ### Overview
