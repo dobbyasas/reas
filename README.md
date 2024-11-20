@@ -37,7 +37,7 @@ V github repositáři by nemělo být .env soubor apod. Security reasons. Ale je
 
 Kompletní deployment přes docker image (fe+be). 
 
-### Závěrem
+### Závěrem
 
 Ještě jednou děkuji za tuto příležitost. Jsem nadšený z možnosti připojit se k vašemu týmu a přispívat na Vaše projekty. A rozhodně budu rád za podrobný code review, je to nejlepší způsob jak najít chybu které jsem si nevšiml a zase se naučit něco nového.
 
