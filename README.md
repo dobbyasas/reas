@@ -21,7 +21,7 @@ Na backendu jsem použil Express, jelikož všechny backend aplikace jsem psal v
 
 Přemýšlel jsem že na design zvolím například Tailwind, protože většina firem využívá právě Tailwind, ale osobně si víc užívám psaní vlastního css i přesto že umím s Tailwind či Bootstrap.
 
-Až po do
+Až pozdě jsem si všiml že aplikace má běžet na /chci-nabidku. Přidat tuhle funkcionalitu byla docela bolest, protože už jsem měl připravené docker images a byl jsem v půlce práce udělat deployment.
 
 ### Jak by se dala aplikace vylepšit
 
