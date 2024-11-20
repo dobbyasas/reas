@@ -1,0 +1,35 @@
+version: '3.8'
+services:
+  backend:
+    build:
+      context: ./reas_be
+    ports:
+      - "5001:5001"
+    environment:
+      - NODE_ENV=production
+      - MONGO_URI=mongodb://mongo:27017/yourdbname
+    depends_on:
+      - mongo
+    networks:
+      - reas-network
+
+  frontend:
+    build:
+      context: ./reas_fe
+    ports:
+      - "3000:80"
+    environment:
+      - REACT_APP_API_URL=http://backend:5001
+    networks:
+      - reas-network
+
+  mongo:
+    image: mongo:5
+    ports:
+      - "27017:27017"
+    networks:
+      - reas-network
+
+networks:
+  reas-network:
+    driver: bridge
