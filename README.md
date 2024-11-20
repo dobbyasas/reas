@@ -25,6 +25,16 @@ Až pozdě jsem si všiml že aplikace má běžet na /chci-nabidku. Přidat tuh
 
 ### Jak by se dala aplikace vylepšit
 
-Celkově nejsem úplně spokojený s designem stránky a nebyl jsem si jistý jestli formulář rozdělit na více komponentů, jako to máte například ve Vaší aplikaci. Je to další věc o které bych rád diskutoval s jinými vývojáři ve Vaší firmě. 
+Celkově nejsem úplně spokojený s designem stránky a nebyl jsem si jistý jestli formulář rozdělit na více komponentů, jako to máte například ve Vaší aplikaci. Je to další věc o které bych rád diskutoval s jinými vývojáři ve Vaší firmě.
 
-Aplikace by měla mít nastavené routování a formulář by měl být na /chci-nabidku
+V github repositáři by nemělo být .env soubor atd. Security reasons. Ale jelikož aplikace je pouze pro Vás a pro deployment, rozhodl jsem se to nechat tak jak to je.
+
+### Závěrem
+
+Ještě jednou děkuji za tuto příležitost. Jsem nadšený z možnosti připojit se k vašemu týmu a přispívat na Vaše projekty. A rozhodně budu rád za podrobný code review, je to nejlepší způsob jak najít chybu které jsem si nevšiml a zase se naučit něco nového.
+
+A o tom to vlastně celé je.
+
+Díky moc!
+
+Kryštof Svejkovský
