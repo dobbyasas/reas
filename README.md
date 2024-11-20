@@ -27,6 +27,8 @@ Až pozdě jsem si všiml že aplikace má běžet na /chci-nabidku. Přidat tuh
 
 Chtěl jsem celou stránku deploynout přes docker i s backendem. Bohužel se mi to ale nepodařilo a tak jsem aspoň udělal deplyoment frontendu: https://reas-deploy-fe.vercel.app/chci-nabidku
 
+Někde jsem udělal chybu s fullName / fullname, opravovat mi zabralo nějaký čas.
+
 ### Jak by se dala aplikace vylepšit
 
 Celkově nejsem úplně spokojený s designem stránky a nebyl jsem si jistý jestli formulář rozdělit na více komponentů, jako to máte například ve Vaší aplikaci. Je to další věc o které bych rád diskutoval s jinými vývojáři ve Vaší firmě.
