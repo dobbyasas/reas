@@ -23,6 +23,8 @@ Přemýšlel jsem že na design zvolím například Tailwind, protože většina
 
 Až pozdě jsem si všiml že aplikace má běžet na /chci-nabidku. Přidat tuhle funkcionalitu byla docela bolest, protože už jsem měl připravené docker images a byl jsem v půlce práce udělat deployment.
 
+Chtěl jsem celou stránku deploynout přes docker i s backendem. Bohužel se mi to ale nepodařilo a tak jsem aspoň udělal deplyoment frontendu: https://reas-deploy-fe.vercel.app/chci-nabidku
+
 ### Jak by se dala aplikace vylepšit
 
 Celkově nejsem úplně spokojený s designem stránky a nebyl jsem si jistý jestli formulář rozdělit na více komponentů, jako to máte například ve Vaší aplikaci. Je to další věc o které bych rád diskutoval s jinými vývojáři ve Vaší firmě.
@@ -38,3 +40,19 @@ A o tom to vlastně celé je.
 Díky moc!
 
 Kryštof Svejkovský
+
+P.S.: pokud by jste měli zájem zde jsou odkazi na některé moje předešlé projekty, běžící na netlify. Jsou to menší projekty pro osobní užití či zábavu. Bohužel větší (a hlavně kompletní) projekty nemohu ukázat kvůli podepsaným NDA. Jako backend používám Supabase a Firebase:
+
+(je možné že aplikace nebudou plně fungovat jelikož supabase / firebase pausne projekty ve kterých se nějakou dobu nic neděje)
+
+Stránka tetovacího studia:
+http://tattoostory.cz
+
+Kvízová aplikace:
+Registrace: https://lanovkakvizregistrace.netlify.app
+Kvíz samotný: https://tofi-jeopardy.netlify.app
+
+Seznam písniček které umím hrát na kytaru: 
+https://tofi-playlist.netlify.app
+NOTE: momentálně pracuji na integraci uživatelských účtů, aby mohl mít každý svůj seznam a nemohl přidávat písničky do mého
+
