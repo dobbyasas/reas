@@ -47,7 +47,7 @@ Díky moc!
 
 Kryštof Svejkovský
 
-P.S.: pokud by jste měli zájem zde jsou odkazi na některé moje předešlé projekty, běžící na netlify. Jsou to menší projekty pro osobní užití či zábavu. Bohužel větší (a hlavně kompletní) projekty nemohu ukázat kvůli podepsaným NDA. Jako backend používám Supabase a Firebase:
+P.S.: pokud by jste měli zájem zde jsou odkazy na některé moje předešlé projekty, běžící na netlify. Jsou to menší projekty pro osobní užití či zábavu. Bohužel větší (a hlavně kompletní) projekty nemohu ukázat kvůli podepsaným NDA. Jako backend používám Supabase a Firebase:
 
 (je možné že aplikace nebudou plně fungovat jelikož supabase / firebase pausne projekty ve kterých se nějakou dobu nic neděje)
 
